@@ -1,3 +1,5 @@
+// Business Logic:
+
 function add(number1, number2) {
   return number1 + number2;
 }
@@ -13,6 +15,8 @@ function multiply(number1, number2) {
 function divide(number1, number2) {
   return number1/number2;
 }
+
+// User interface logic:
 
 $(document).ready(function() {
     $("form#add").submit(function(event) {
