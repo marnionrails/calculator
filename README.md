@@ -20,7 +20,7 @@ This program allows a user to perform calculations of their choice, currently ad
 
 * Clone repository: https://github.com/marnionrails/calculator
 * Open calculator folder on your machine
-* Open index.html
+* Open index.html in your browser
 
 ## Known Bugs
 
@@ -29,6 +29,8 @@ This program allows a user to perform calculations of their choice, currently ad
 ## License
 
 GPL
+
+Copyright(c) 2021 Marni Sucher and Maddie Saldivia
 
 ## Contact Information
 
